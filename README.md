@@ -2,8 +2,6 @@
 
 ## Teknik Dokümantasyon ve Kullanım Kılavuzu
 
----
-
 ## GENEL BAKIŞ
 
 Packet Sniffer, Knight Online oyununun ağ trafiğini analiz etmek için geliştirilmiş profesyonel bir paket izleme aracıdır. Windows kernel driver'ı kullanarak yüksek performanslı paket yakalama sağlar.
@@ -482,24 +480,6 @@ Enabled=*                ; Tüm game opcodeleri
 - Loglamayı kapatın veya azaltın
 - Filtreleme kullanın
 - Auto-decompression'ı kapatın
-
----
-
-## GÜVENLİK UYARISI
-
-> **ÖNEMLİ:** Bu araç sadece eğitim ve analiz amaçlıdır!
-
-### İzin Verilen Kullanımlar
-- ✓ Kendi oyun hesabınızı analiz etmek
-- ✓ Ağ trafiğini öğrenmek
-- ✓ Paket yapısını incelemek
-- ✓ Eğitim amaçlı analiz
-
-### Yasak Kullanımlar
-- ✗ Başkalarının hesaplarını hacklemek
-- ✗ Oyun sunucularına saldırmak
-- ✗ Hile yapmak için kullanmak
-- ✗ Ticari amaçla izinsiz kullanmak
 
 ---
 
