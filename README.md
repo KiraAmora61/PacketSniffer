@@ -480,22 +480,6 @@ Enabled=*                ; Tüm game opcodeleri
 - Loglamayı kapatın veya azaltın
 - Filtreleme kullanın
 - Auto-decompression'ı kapatın
-
----
-
-## İLETİŞİM BİLGİLERİ
-
-| PLATFORM | LİNK |
-|----------|------|
-| Web Sitesi | https://kiraguard.com |
-| Forum | https://forum.kiraguard.com |
-| R10.net | https://www.r10.net/profil/140348-emrekirasari.html |
-| E-posta | denizsukelebek@proton.me |
-| Facebook | https://www.facebook.com/kelebekdenizsu |
-| Instagram | https://www.instagram.com/denizsukelebek/ |
-| TikTok | https://www.tiktok.com/@kelebekdenizsu |
-| Discord | https://discord.com/invite/grYZDXXSEy |
-
 ---
 
 **KiraSoftWare © 2026** - Tüm Hakları Saklıdır
