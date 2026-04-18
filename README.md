@@ -1,4 +1,4 @@
-# KiraSoftware Packet Sniffer v4.0
+# KiraSoftware Packet Sniffer v1.0
 
 ## Teknik Dokümantasyon ve Kullanım Kılavuzu
 
